@@ -4,7 +4,7 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 import GraphicComponent from 'components/Grafico';
-import GraphicComponent2 from 'components/Grafico 2';
+import GraphicComponent2 from 'components/Grafico2';
 import * as S from './styles';
 
 const HomeTemplate = () => {
